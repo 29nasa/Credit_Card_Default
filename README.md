@@ -13,6 +13,9 @@ The objective is to build a predictive model that can classify credit card custo
 
 By accurately predicting default risk, financial institutions can make informed decisions about credit offers, risk mitigation, and customer engagement.
 
+## Data 
+Data is sourced directly from Kaggle: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+
 ## Exploratory Data Analysis (EDA) 🔎
 
 1. **Dataset Overview**: 
