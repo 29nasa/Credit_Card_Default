@@ -93,5 +93,5 @@ The project shows that with the right dataset and machine learning model, organi
 
 Thanks for checking out this project! Feel free to explore the code and contribute with improvements! ✨
 
-🔗 [GitHub Repo Link]  
-📧 Contact: [Your Email]
+🔗 [[GitHub Repo Link] ](https://github.com/29nasa/Credit_Card_Default/blob/main/Credit_Card_Default_Risk_Classification_Prediction.ipynb) 
+📧 Contact: nasa.khatri@gmail.com
